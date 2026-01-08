@@ -1,3 +1,4 @@
+### COUNTER SOLUTION ###
 from collections import Counter
 
 class Solution:
@@ -15,6 +16,4 @@ class Solution:
         # for each tuple (num, cnt), we only take num
         # ex: [(1, 3), (2, 2)] => [1, 2]
         return [num for num, cnt in most_common]
-
-
         
