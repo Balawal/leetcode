@@ -6,6 +6,7 @@ my leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Balawal/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Balawal/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Balawal/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Balawal/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Balawal/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -21,6 +22,7 @@ my leetcode solutions
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Balawal/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Balawal/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Balawal/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Balawal/leetcode/tree/master/0242-valid-anagram) |
@@ -67,4 +69,8 @@ my leetcode solutions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Balawal/leetcode/tree/master/0125-valid-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Balawal/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
